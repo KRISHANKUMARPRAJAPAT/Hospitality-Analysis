@@ -96,7 +96,7 @@ Now Just Look Executive View Dashboard:
  - The report was then published to Power BI Service.
  
  
-![Publish_Message](https://user-images.githubusercontent.com/102996550/174094520-3a845196-97e6-4d44-8760-34a64abc3e77.jpg)
+![Screenshot 2024-04-07 004124](https://github.com/KRISHANKUMARPRAJAPAT/Hospitality-Analysis/assets/122435688/6715e141-f89b-4cd4-a001-c9c45270fdca)
 
 
 
